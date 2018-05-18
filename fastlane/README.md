@@ -14,7 +14,7 @@ xcode-select --install
 <tr>
 <th width="33%"><a href="http://brew.sh">Homebrew</a></td>
 <th width="33%">Installer Script</td>
-<th width="33%">Rubygems</td>
+<th width="33%">RubyGems</td>
 </tr>
 <tr>
 <td width="33%" align="center">macOS</td>
@@ -62,6 +62,16 @@ fastlane apk2
 ### east
 ```
 fastlane east
+```
+
+### files_no_path
+```
+fastlane files_no_path
+```
+
+### files
+```
+fastlane files
 ```
 
 
